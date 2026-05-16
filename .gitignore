@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (in case of tooling)
+node_modules/
+
+# Python (in case of tooling)
+__pycache__/
+*.pyc
+.env
+
+# Misc
+*.log
+*.tmp
