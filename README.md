@@ -2,7 +2,9 @@
 
 [![Claude Certified Architect - Passed](https://img.shields.io/badge/Claude_Certified_Architect-Passed-blue.svg)](https://verify.skilljar.com/c/dv93ugng74jx)
 
-[![Claude Certified Architect — Foundations](assets/certificate.jpg)](https://verify.skilljar.com/c/dv93ugng74jx)
+<a href="https://verify.skilljar.com/c/dv93ugng74jx">
+  <img src="assets/certificate.jpg" alt="Claude Certified Architect — Foundations" width="600">
+</a>
 
 A **pattern-recognition study guide** for the Claude Certified Architect (Foundations) exam, focused on architectural reasoning rather than memorization.
 
