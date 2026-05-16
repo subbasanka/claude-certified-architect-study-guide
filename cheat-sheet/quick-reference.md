@@ -78,11 +78,11 @@ Ask these before choosing any answer:
 
 | Domain | Weight | One-Line Summary |
 |--------|--------|-----------------|
-| 1. Agentic Architecture | 27% | Loops, decomposition, hooks, parallel execution |
-| 2. Tool Design & MCP | 18% | Descriptions, contracts, scoping, build vs reuse |
-| 3. Claude Code Workflows | 20% | CLAUDE.md scope, skills, plan/direct, CI modes |
-| 4. Prompt & Structured Output | 20% | Schema design, few-shot, nullable, batch API |
-| 5. Context & Reliability | 15% | Persistent facts, partial failures, attribution, eval |
+| 1. Agentic Architecture | ~25% | Loops, decomposition, hooks, parallel execution |
+| 2. Tool Design & MCP | ~20% | Descriptions, contracts, scoping, build vs reuse |
+| 3. Claude Code Workflows | ~20% | CLAUDE.md scope, skills, plan/direct, CI modes |
+| 4. Prompt & Structured Output | ~20% | Schema design, few-shot, nullable, batch API |
+| 5. Context & Reliability | ~15% | Persistent facts, partial failures, attribution, eval |
 
 ---
 

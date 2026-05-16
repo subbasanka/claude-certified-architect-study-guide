@@ -2,6 +2,8 @@
 
 [![Claude Certified Architect - Passed](https://img.shields.io/badge/Claude_Certified_Architect-Passed-blue.svg)](https://verify.skilljar.com/c/dv93ugng74jx)
 
+[![Claude Certified Architect — Foundations](assets/certificate.jpg)](https://verify.skilljar.com/c/dv93ugng74jx)
+
 A **pattern-recognition study guide** for the Claude Certified Architect (Foundations) exam, focused on architectural reasoning rather than memorization.
 
 I passed the exam and created this repository to help others prepare with a practical, scenario-based approach.
@@ -17,20 +19,23 @@ The **Claude Certified Architect (Foundations)** is a certification exam offered
 | Detail | Info |
 |--------|------|
 | **Provider** | Anthropic |
-| **Cost** | Free |
-| **Format** | Multiple-choice, proctored |
-| **Registration** | [claudecertifications.com](https://claudecertifications.com/) |
-| **Preparation** | [Anthropic Academy / Skilljar](https://anthropic.skilljar.com/) |
+| **Cost** | $99 per attempt (first 5,000 partner network employees were free) |
+| **Format** | Multiple-choice & multi-select, online proctored (webcam required, closed-book) |
+| **Questions** | 60 questions, 120 minutes |
+| **Passing Score** | 720 / 1000 (scaled) |
+| **Scenarios** | 4 randomly selected from a pool of 6 |
+| **Registration** | [Anthropic Academy / Skilljar](https://anthropic.skilljar.com/) |
+| **Community Prep** | [claudecertifications.com](https://claudecertifications.com/) |
 
 ### Exam Domains and Weights
 
 | Domain | Weight | What It Tests |
 |--------|--------|---------------|
-| 1. Agentic Architecture & Orchestration | 27% | Agent loops, stop conditions, coordinator decomposition, parallel execution, handoffs, hooks |
-| 2. Tool Design & MCP Integration | 18% | Tool contracts, error semantics, routing, scoping, build vs reuse decisions |
-| 3. Claude Code Configuration & Workflows | 20% | CLAUDE.md scope, commands, skills, plan/direct/hybrid modes, CI invocation |
-| 4. Prompt Engineering & Structured Output | 20% | Schema design, nullable fields, few-shot examples, validation retry, batch API |
-| 5. Context Management & Reliability | 15% | Persistent facts, partial failure handling, source conflicts, evaluation strategy |
+| 1. Agentic Architecture & Orchestration | ~25% | Agent loops, stop conditions, coordinator decomposition, parallel execution, handoffs, hooks |
+| 2. Tool Design & MCP Integration | ~20% | Tool contracts, error semantics, routing, scoping, build vs reuse decisions |
+| 3. Claude Code Configuration & Workflows | ~20% | CLAUDE.md scope, commands, skills, plan/direct/hybrid modes, CI invocation |
+| 4. Prompt Engineering & Structured Output | ~20% | Schema design, nullable fields, few-shot examples, validation retry, batch API |
+| 5. Context Management & Reliability | ~15% | Persistent facts, partial failure handling, source conflicts, evaluation strategy |
 
 ### What Background Helps
 
