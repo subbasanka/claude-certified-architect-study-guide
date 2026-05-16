@@ -14,6 +14,7 @@ These are the resources I used or found helpful while preparing for the Claude C
 
 | Resource | Link |
 |----------|------|
+| My Medium Article — How I Passed the CCA-F | https://medium.com/@ssubbu6795/how-i-passed-the-claude-certified-architect-foundations-exam-and-what-i-learned-5e7549d80b58 |
 | X thread by @hooeem | https://x.com/hooeem/status/2033198345045336559 |
 | Towards AI — Complete CCA Guide (Rick Hightower) | https://pub.towardsai.net/claude-certified-architect-the-complete-guide-to-passing-the-cca-foundations-exam-9665ce7342a8 |
 | paullarionov/claude-certified-architect | https://github.com/paullarionov/claude-certified-architect |

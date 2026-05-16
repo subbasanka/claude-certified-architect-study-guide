@@ -6,6 +6,8 @@
   <img src="assets/certificate.jpg" alt="Claude Certified Architect — Foundations" width="600">
 </a>
 
+[![Medium Article](https://img.shields.io/badge/Medium-Read_Article-black?logo=medium)](https://medium.com/@ssubbu6795/how-i-passed-the-claude-certified-architect-foundations-exam-and-what-i-learned-5e7549d80b58)
+
 A **pattern-recognition study guide** for the Claude Certified Architect (Foundations) exam, focused on architectural reasoning rather than memorization.
 
 I passed the exam and created this repository to help others prepare with a practical, scenario-based approach.
@@ -143,6 +145,7 @@ When reading a question, ask:
 - [X thread by @hooeem](https://x.com/hooeem/status/2033198345045336559) — community prep perspective
 - [Towards AI Complete Guide](https://pub.towardsai.net/claude-certified-architect-the-complete-guide-to-passing-the-cca-foundations-exam-9665ce7342a8) — exam-domain framing
 - [paullarionov/claude-certified-architect](https://github.com/paullarionov/claude-certified-architect) — community study materials
+- [My Medium article](https://medium.com/@ssubbu6795/how-i-passed-the-claude-certified-architect-foundations-exam-and-what-i-learned-5e7549d80b58) — detailed write-up of my prep approach
 
 Full credits: [`resources/credits.md`](resources/credits.md)
 
